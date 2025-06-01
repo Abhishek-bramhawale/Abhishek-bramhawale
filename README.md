@@ -2,11 +2,16 @@
 <h3 align="center">A Curious MERN Stack Explorer 🚀 | Diving into the Java Backend World 🌱</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&size=25&center=true&vCenter=true&width=1000&lines=MERN%20Stack%20Developer%20%E2%80%94%20Building%20Real%20Projects;Building%20Everyday,%20Learning%20Every%20Hour.;Let's%20Turn%20Ideas%20into%20Code%20Together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&size=25&center=true&vCenter=true&width=1000&lines=MERN Stack Developer — Building Real Projects;Building+Everyday,+Learning+Every+Hour.;Let's+Turn+Ideas+into+Code+Together!" />
 </p>
 
-
 ---
+
+
+
+<img align="right" alt="coding" width="350" height="300" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
+
 
 ## 🙋‍♂️ About Me
 
