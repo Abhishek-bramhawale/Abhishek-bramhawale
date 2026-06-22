@@ -48,10 +48,10 @@ Practicing →  LeetCode & problem solving
   <a href="https://orangered-cod-395775.hostingersite.com/"><img src="https://img.shields.io/badge/AlliedPower_LT_Panels-Live-a3be8c?style=flat-square&labelColor=2e3440" /></a>
   <a href="https://easy2-share-client.vercel.app"><img src="https://img.shields.io/badge/Easy2Share-Live-a3be8c?style=flat-square&labelColor=2e3440" /></a>
   <a href="https://py-quer-client.vercel.app"><img src="https://img.shields.io/badge/PYQuer-Live-88c0d0?style=flat-square&labelColor=2e3440" /></a>
-  <a href="https://github.com/Abhishek-bramhawale/AlliedPower_LT_Panels"><img src="https://img.shields.io/badge/TryMyCode-Repo-ebcb8b?style=flat-square&labelColor=2e3440" /></a>
+  <a href="https://github.com/Abhishek-bramhawale/TryMyCode"><img src="https://img.shields.io/badge/TryMyCode-Repo-ebcb8b?style=flat-square&labelColor=2e3440" /></a>
   <a href="https://github.com/Abhishek-bramhawale/video-editor"><img src="https://img.shields.io/badge/video--editor-Repo-b48ead?style=flat-square&labelColor=2e3440" /></a>
   <a href="https://github.com/Abhishek-bramhawale/FrameCut"><img src="https://img.shields.io/badge/FrameCut-Repo-d08770?style=flat-square&labelColor=2e3440" /></a>
-  <a href="https://github.com/Abhishek-bramhawale/finverse_model2"><img src="https://img.shields.io/badge/finverse__model2-Repo-bf616a?style=flat-square&labelColor=2e3440" /></a>
+  <a href="https://github.com/Abhishek-bramhawale/FinVerse"><img src="https://img.shields.io/badge/finverse__model2-Repo-bf616a?style=flat-square&labelColor=2e3440" /></a>
 </p>
 
 
