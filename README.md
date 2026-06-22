@@ -1,96 +1,107 @@
-<h1 align="center">Hey there 👋, I'm Abhishek Bramhawale</h1>
-<h3 align="center">A Curious MERN Stack Explorer 🚀 | Diving into the Java Backend World 🌱</h3>
+<!-- Theme: Nord · Arctic minimal -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2e3440,100:5e81ac&height=160&section=header&text=Abhishek%20Bramhawale&fontSize=36&fontColor=eceff4&animation=scaleIn" width="100%" alt="header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&size=25&center=true&vCenter=true&width=1000&lines=MERN%20Stack%20Developer%20%E2%80%94%20Building%20Real%20Projects;Building%20Everyday,%20Learning%20Every%20Hour.;Let's%20Turn%20Ideas%20into%20Code%20Together!" />
-</p>
-
-
----
-
-## 🙋‍♂️ About Me
-
-<img align="right" alt="coding" width="400" height="200" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-
-- 🔭 Currently building **MERN stack projects** while sharpening my DSA skills
-- 🧠 exploring **backend Java**,  step by step
-- 💬 Open to discussions on **React, Node, Express, MongoDB, Java**
-- 🎯 Believe in **small consistent steps > overnight success**
-- 📫 Reach me at: **abhishekbramhawale2@gmail.com**
-- 🧪 Code hard, celebrate harder ✨
-
-
-
----
-
-## 🛠️ Tech I Use
-
-### 🧠 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
-![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
-
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![Next.Js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-
-### 🔧 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/-Express.js-gray?style=for-the-badge&logo=express)
-
-### 🗃️ Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-
-### 🛠 Tools & Hosting
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-bramhawale&theme=tokyonight" alt="GitHub Streak" height="200px" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Java+Backend+%7C+DSA;End-to-end+web+development" alt="typing" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-bramhawale&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://abhishekbramhawale.netlify.app/"><img src="https://img.shields.io/badge/portfolio-5e81ac?style=for-the-badge&logo=vercel&logoColor=eceff4" /></a>
+  <a href="https://in.linkedin.com/in/abhishek-bramhawale-888a06305"><img src="https://img.shields.io/badge/linkedin-4c566a?style=for-the-badge&logo=linkedin&logoColor=eceff4" /></a>
+  <a href="https://leetcode.com/u/sanjivkumarbramhawale4992/"><img src="https://img.shields.io/badge/leetcode-ebcb8b?style=for-the-badge&logo=leetcode&logoColor=2e3440" /></a>
+  <a href="mailto:abhishekbramhawale2@gmail.com"><img src="https://img.shields.io/badge/email-bf616a?style=for-the-badge&logo=gmail&logoColor=eceff4" /></a>
 </p>
 
+<br>
 
----
+## About
 
-## 🌐 Find Me Around
+> I build web apps end to end — frontend, API, database, deployment.
+> MERN stack is my main stack; I'm learning **Java** for backend work and practicing **DSA** regularly.
+> I ship things I actually use.
 
-<p align="left">
-  <a href="https://in.linkedin.com/in/abhishek-bramhawale-888a06305" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/sanjivkumarbramhawale4992/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-</p>
+<br>
 
----
+```
+Building  →  MERN Full-stack projects 
+Learning  →  Java backend fundamentals
+Practicing →  LeetCode & problem solving
+```
 
-## 💡 Daily Motivation
+<br>
+
+
+
+<!-- ## Tech Stack
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,java,mongodb,tailwind,git,github,vercel,postman&perline=7" />
+</p> -->
+
+
+
+### Projects
+
+<p align="center">
+  <a href="https://www.inergyhitechinfra.com/"><img src="https://img.shields.io/badge/InergyHitechInfra-Live-a3be8c?style=flat-square&labelColor=2e3440" /></a>
+  <a href="https://orangered-cod-395775.hostingersite.com/"><img src="https://img.shields.io/badge/AlliedPower_LT_Panels-Live-a3be8c?style=flat-square&labelColor=2e3440" /></a>
+  <a href="https://easy2-share-client.vercel.app"><img src="https://img.shields.io/badge/Easy2Share-Live-a3be8c?style=flat-square&labelColor=2e3440" /></a>
+  <a href="https://py-quer-client.vercel.app"><img src="https://img.shields.io/badge/PYQuer-Live-88c0d0?style=flat-square&labelColor=2e3440" /></a>
+  <a href="https://github.com/Abhishek-bramhawale/AlliedPower_LT_Panels"><img src="https://img.shields.io/badge/TryMyCode-Repo-ebcb8b?style=flat-square&labelColor=2e3440" /></a>
+  <a href="https://github.com/Abhishek-bramhawale/video-editor"><img src="https://img.shields.io/badge/video--editor-Repo-b48ead?style=flat-square&labelColor=2e3440" /></a>
+  <a href="https://github.com/Abhishek-bramhawale/FrameCut"><img src="https://img.shields.io/badge/FrameCut-Repo-d08770?style=flat-square&labelColor=2e3440" /></a>
+  <a href="https://github.com/Abhishek-bramhawale/finverse_model2"><img src="https://img.shields.io/badge/finverse__model2-Repo-bf616a?style=flat-square&labelColor=2e3440" /></a>
 </p>
 
----
 
-> *"Code. Learn. Break. Fix. Repeat."*
+### Tech Stack
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,java,mongodb,html,css,tailwind,git,github,vercel,postman&perline=8" alt="skills" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+<br>
+
+
+
+<br> 
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-bramhawale&theme=nord&hide_border=true&background=2E3440&ring=88C0D0&fire=BF616A&currStreakLabel=88C0D0" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-bramhawale&layout=compact&theme=nord&hide_border=true&bg_color=2e3440&title_color=bf616a&langs_count=8" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-bramhawale&show_icons=true&theme=nord&hide_border=true&bg_color=2e3440&title_color=88c0d0&icon_color=81a1c1" height="165" />
+</p> -->
+
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-bramhawale&theme=nord&hide_border=true&bg_color=2e3440&color=88c0d0&line=4c566a&point=81a1c1&area=true" />
+</p> -->
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2e3440,100:5e81ac&height=70&section=footer&text=abhishekbramhawale2@gmail.com&fontSize=18&fontColor=eceff4&animation=fadeIn" width="100%" />
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=0e7490,1e3a5f&height=80&section=footer&text=Thanks%20for%20visiting&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%" alt="footer" />
+
+<p align="center">
+  <sub>Open to collaboration — reach out via email or LinkedIn.</sub>
+</p>
